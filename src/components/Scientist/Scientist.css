@@ -1,0 +1,27 @@
+.card-bg{
+    background-color: #b8b5ff;
+}
+
+.scientist-img{
+    height:300px !important;
+}
+
+.scientist-name{
+    color: #0d335d;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+}
+
+.scientist-details{
+    color: #0d335d;
+    font-family: 'Titillium Web', sans-serif;
+    line-height: 1rem;
+}
+
+
+.hire-btn{
+    background-color: #7868e6;
+    border: none;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+}

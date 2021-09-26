@@ -2,105 +2,112 @@
     "name": "Albert Einstien",
     "country": "Germany",
     "field":"Theoritical Physics",
-    "image": "https://en.wikipedia.org/wiki/Albert_Einstein#/media/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/220px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
     "numberOfPapers":"10",
-    "salary": 150
+    "honourium": 150
   }, {
     "name": "Isaac Newton",
     "country": "England",
     "field":"Mathematics",
-    "image": "https://en.wikipedia.org/wiki/Isaac_Newton#/media/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg/220px-Portrait_of_Sir_Isaac_Newton%2C_1689.jpg",
     "numberOfPapers":"20",
-    "salary": 350
+    "honourium": 350
   }, {
     "name": "Dmitri Mendeleev",
     "country": "Russia",
     "field":"Chemistry",
-    "image": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev#/media/File:DIMendeleevCab.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/DIMendeleevCab.jpg/220px-DIMendeleevCab.jpg",
     "numberOfPapers":"05",
-    "salary": 180
+    "honourium": 180
   }, {
     "name": "Dmitri Ivanovsky",
     "country": "Russia",
     "field":"Botani and Virology",
-    "image": "https://en.wikipedia.org/wiki/Dmitri_Ivanovsky#/media/File:Ivanovsky.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Ivanovsky.jpg/150px-Ivanovsky.jpg",
     "numberOfPapers":"04",
-    "salary": 220
+    "honourium": 220
   }, {
     "name": "Pierre-Simon Laplace",
     "country": "France",
     "field":"Mathematics",
-    "image": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace#/media/File:Laplace,_Pierre-Simon,_marquis_de.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Laplace%2C_Pierre-Simon%2C_marquis_de.jpg/225px-Laplace%2C_Pierre-Simon%2C_marquis_de.jpg",
     "numberOfPapers":"15",
-    "salary": 400
+    "honourium": 400
   }, {
     "name": "Max Planck",
     "country": "Germany",
     "field":"Theoritical Physics",
-    "image": "https://en.wikipedia.org/wiki/Max_Planck#/media/File:Max_Planck_1933.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Max_Planck_1933.jpg/220px-Max_Planck_1933.jpg",
     "numberOfPapers":"25",
-    "salary": 150
+    "honourium": 150
   }, {
-    "name": "Jagadish Chandra Bose",
+    "name": "Jagadish C Bose",
     "country": "Bangladesh",
     "field":"Biology",
-    "image": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose#/media/File:J.C.Bose.JPG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/J.C.Bose.JPG/220px-J.C.Bose.JPG",
     "numberOfPapers":"19",
-    "salary": 200
+    "honourium": 200
   }, {
-    "name": "Antoine Lavoisier",
-    "country": "France",
-    "field":"Chemistry",
-    "image": "https://en.wikipedia.org/wiki/Antoine_Lavoisier#/media/File:David_-_Portrait_of_Monsieur_Lavoisier_(cropped).jpg",
+    "name": "Nicolaus Copernicus",
+    "country": "Poland",
+    "field":"Astronomy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nikolaus_Kopernikus.jpg/220px-Nikolaus_Kopernikus.jpg",
     "numberOfPapers":"7",
-    "salary": 170
+    "honourium": 170
   }, {
     "name": "Ernest Rutherford",
     "country": "Newzealand",
     "field":"Chemistry",
-    "image": "https://en.wikipedia.org/wiki/Ernest_Rutherford#/media/File:Ernest_Rutherford_LOC.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ernest_Rutherford_LOC.jpg/220px-Ernest_Rutherford_LOC.jpg",
     "numberOfPapers":"17",
-    "salary": 270
+    "honourium": 270
   }, {
     "name": "Johannes Kepler",
     "country": "Germany",
     "field":"Astrology",
-    "image": "https://en.wikipedia.org/wiki/Johannes_Kepler#/media/File:JKepler.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/220px-JKepler.jpg",
     "numberOfPapers":"9",
-    "salary": 220
+    "honourium": 220
   }, {
     "name": "Galileo Galilei",
     "country": "Italy",
     "field":"Physics",
-    "image": "https://en.wikipedia.org/wiki/Galileo_Galilei#/media/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/220px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
     "numberOfPapers":"15",
-    "salary": 320
+    "honourium": 320
   }, {
     "name": "Antoine Lavoisier",
     "country": "France",
     "field":"Chemistry",
-    "image": "https://en.wikipedia.org/wiki/Antoine_Lavoisier#/media/File:David_-_Portrait_of_Monsieur_Lavoisier_(cropped).jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%29.jpg/220px-David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%29.jpg",
     "numberOfPapers":"7",
-    "salary": 170
+    "honourium": 170
   }, {
     "name": "Carl Friedrich Gauss",
     "country": "Germany",
     "field":"Mathematics",
-    "image": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss#/media/File:Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg/220px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
     "numberOfPapers":"22",
-    "salary": 150
+    "honourium": 150
   }, {
     "name": "Leonhard Euler",
     "country": "Switzerland",
     "field":"Mathematics",
-    "image": "https://en.wikipedia.org/wiki/Leonhard_Euler#/media/File:Leonhard_Euler.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Leonhard_Euler.jpg/220px-Leonhard_Euler.jpg",
     "numberOfPapers":"33",
-    "salary": 330
+    "honourium": 330
+  }, {
+    "name": "Wilhelm Röntgen",
+    "country": "Germany",
+    "field":"Physics",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Roentgen2.jpg/220px-Roentgen2.jpg",
+    "numberOfPapers":"11",
+    "honourium": 110
   }, {
     "name": "Michael Faraday",
     "country": "England",
     "field":"Physics",
-    "image": "https://en.wikipedia.org/wiki/Michael_Faraday#/media/File:M_Faraday_Th_Phillips_oil_1842.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/M_Faraday_Th_Phillips_oil_1842.jpg/220px-M_Faraday_Th_Phillips_oil_1842.jpg",
     "numberOfPapers":"15",
-    "salary": 240
+    "honourium": 240
   }]

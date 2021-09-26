@@ -1,0 +1,27 @@
+.team-summary-title{
+    font-family: 'Titillium Web', sans-serif; 
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.total-scientist{
+    font-family: 'Titillium Web', sans-serif; 
+    font-size: 15px;
+    text-align: center;
+}
+
+.selected-scientist{
+    font-family: 'Titillium Web', sans-serif; 
+}
+
+.total{
+    background-color: #7868e6;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+.total-amount{
+    color:#cccbfd;
+}
