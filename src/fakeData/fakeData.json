@@ -1,0 +1,106 @@
+[{
+    "name": "Albert Einstien",
+    "country": "Germany",
+    "field":"Theoritical Physics",
+    "image": "https://en.wikipedia.org/wiki/Albert_Einstein#/media/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+    "numberOfPapers":"10",
+    "salary": 150
+  }, {
+    "name": "Isaac Newton",
+    "country": "England",
+    "field":"Mathematics",
+    "image": "https://en.wikipedia.org/wiki/Isaac_Newton#/media/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+    "numberOfPapers":"20",
+    "salary": 350
+  }, {
+    "name": "Dmitri Mendeleev",
+    "country": "Russia",
+    "field":"Chemistry",
+    "image": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev#/media/File:DIMendeleevCab.jpg",
+    "numberOfPapers":"05",
+    "salary": 180
+  }, {
+    "name": "Dmitri Ivanovsky",
+    "country": "Russia",
+    "field":"Botani and Virology",
+    "image": "https://en.wikipedia.org/wiki/Dmitri_Ivanovsky#/media/File:Ivanovsky.jpg",
+    "numberOfPapers":"04",
+    "salary": 220
+  }, {
+    "name": "Pierre-Simon Laplace",
+    "country": "France",
+    "field":"Mathematics",
+    "image": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace#/media/File:Laplace,_Pierre-Simon,_marquis_de.jpg",
+    "numberOfPapers":"15",
+    "salary": 400
+  }, {
+    "name": "Max Planck",
+    "country": "Germany",
+    "field":"Theoritical Physics",
+    "image": "https://en.wikipedia.org/wiki/Max_Planck#/media/File:Max_Planck_1933.jpg",
+    "numberOfPapers":"25",
+    "salary": 150
+  }, {
+    "name": "Jagadish Chandra Bose",
+    "country": "Bangladesh",
+    "field":"Biology",
+    "image": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose#/media/File:J.C.Bose.JPG",
+    "numberOfPapers":"19",
+    "salary": 200
+  }, {
+    "name": "Antoine Lavoisier",
+    "country": "France",
+    "field":"Chemistry",
+    "image": "https://en.wikipedia.org/wiki/Antoine_Lavoisier#/media/File:David_-_Portrait_of_Monsieur_Lavoisier_(cropped).jpg",
+    "numberOfPapers":"7",
+    "salary": 170
+  }, {
+    "name": "Ernest Rutherford",
+    "country": "Newzealand",
+    "field":"Chemistry",
+    "image": "https://en.wikipedia.org/wiki/Ernest_Rutherford#/media/File:Ernest_Rutherford_LOC.jpg",
+    "numberOfPapers":"17",
+    "salary": 270
+  }, {
+    "name": "Johannes Kepler",
+    "country": "Germany",
+    "field":"Astrology",
+    "image": "https://en.wikipedia.org/wiki/Johannes_Kepler#/media/File:JKepler.jpg",
+    "numberOfPapers":"9",
+    "salary": 220
+  }, {
+    "name": "Galileo Galilei",
+    "country": "Italy",
+    "field":"Physics",
+    "image": "https://en.wikipedia.org/wiki/Galileo_Galilei#/media/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
+    "numberOfPapers":"15",
+    "salary": 320
+  }, {
+    "name": "Antoine Lavoisier",
+    "country": "France",
+    "field":"Chemistry",
+    "image": "https://en.wikipedia.org/wiki/Antoine_Lavoisier#/media/File:David_-_Portrait_of_Monsieur_Lavoisier_(cropped).jpg",
+    "numberOfPapers":"7",
+    "salary": 170
+  }, {
+    "name": "Carl Friedrich Gauss",
+    "country": "Germany",
+    "field":"Mathematics",
+    "image": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss#/media/File:Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
+    "numberOfPapers":"22",
+    "salary": 150
+  }, {
+    "name": "Leonhard Euler",
+    "country": "Switzerland",
+    "field":"Mathematics",
+    "image": "https://en.wikipedia.org/wiki/Leonhard_Euler#/media/File:Leonhard_Euler.jpg",
+    "numberOfPapers":"33",
+    "salary": 330
+  }, {
+    "name": "Michael Faraday",
+    "country": "England",
+    "field":"Physics",
+    "image": "https://en.wikipedia.org/wiki/Michael_Faraday#/media/File:M_Faraday_Th_Phillips_oil_1842.jpg",
+    "numberOfPapers":"15",
+    "salary": 240
+  }]
