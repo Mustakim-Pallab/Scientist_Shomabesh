@@ -1,10 +1,7 @@
 # 1st International  Science Conference
 
-Live site: 
+Live site: https://app.netlify.com/sites/reverent-swanson-980b18/overview
 
-* Bullet list
-It can be gathering of scientists.
-* Bullet list
-You Have to pay for each Scientist
-* Bullet list
+* It can be gathering of scientists.
+* You Have to pay for each Scientist
 * Remember, there time is valuable
