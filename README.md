@@ -2,4 +2,9 @@
 
 Live site: 
 
-*bullet
+* Bullet list
+It can be gathering of scientists.
+* Bullet list
+You Have to pay for each Scientist
+* Bullet list
+* Remember, there time is valuable
